@@ -1,0 +1,14 @@
+Average Student Grade: 50.44
+Hardest Subject: Geography
+Easiest Subject: English
+Best Performing Grade: 6
+Worst Performing Grade: 5
+Best Student ID: 549
+Worst Student ID: 637
+
+Best Students Per Subject:
+Math: Student 92 (Mark: 100)
+Science: Student 96 (Mark: 100)
+History: Student 19 (Mark: 100)
+English: Student 13 (Mark: 100)
+Geography: Student 15 (Mark: 100)
